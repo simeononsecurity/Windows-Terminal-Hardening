@@ -1,13 +1,13 @@
 # Windows-Terminal-Hardening
 Scripts and Documentation for Hardening Windows Command Prompt and PowerShell
 
-# What does this script do?
+## What does this script do?
 - Enables PowerShell Constrained Language Mode
 - Enables PowerShell Logging
 - Disables PowerShell v2
 - Disables WSMAN and PSRemoting
 
-# Recommended Reading:
+## Recommended Reading:
 - [PowerShell Constrained Language Mode](https://devblogs.microsoft.com/powershell/powershell-constrained-language-mode/)
 - [PowerShell Best Practices](https://www.digitalshadows.com/blog-and-research/powershell-security-best-practices/)
 - [Securing PowerShell in the Enterprise](https://www.cyber.gov.au/acsc/view-all-content/publications/securing-powershell-enterprise)
