@@ -6,11 +6,13 @@ Scripts and Documentation for Hardening Windows Command Prompt and PowerShell
 - Enables PowerShell Logging
 - Disables PowerShell v2
 - Disables WSMAN and PSRemoting
+- Disables Command Prompt
 
 ## Recommended Reading:
 - [PowerShell Constrained Language Mode](https://devblogs.microsoft.com/powershell/powershell-constrained-language-mode/)
 - [PowerShell Best Practices](https://www.digitalshadows.com/blog-and-research/powershell-security-best-practices/)
 - [Securing PowerShell in the Enterprise](https://www.cyber.gov.au/acsc/view-all-content/publications/securing-powershell-enterprise)
+- [Windows Defender Hardening](https://github.com/simeononsecurity/Windows-Defender-Hardening)
 
 ## Download the required files:
 
