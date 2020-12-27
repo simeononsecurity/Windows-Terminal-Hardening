@@ -17,6 +17,7 @@ reg add "HKEY_CURRENT_USER\Software\Microsoft\Command Processor" /v AutoRun /t R
 
 #Disable Powershell v2
 Disable-WindowsOptionalFeature -Online -FeatureName MicrosoftWindowsPowerShellV2Root
+Disable-WindowsOptionalFeature -Online -FeatureName MicrosoftWindowsPowerShellV2
 
 #Set PowerShell Constrained Language Mode
 #https://devblogs.microsoft.com/powershell/powershell-constrained-language-mode/
