@@ -1,4 +1,4 @@
-#####Windows Hardening CTF#####
+#####Windows Terminal Hardening#####
 #Continue on error
 $ErrorActionPreference= 'silentlycontinue'
 
