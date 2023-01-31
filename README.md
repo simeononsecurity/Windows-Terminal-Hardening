@@ -1,5 +1,6 @@
 # Windows-Terminal-Hardening
-Scripts and Documentation for Hardening Windows Command Prompt and PowerShell
+
+Windows-Terminal-Hardening is a PowerShell script that elevates privileges and performs various Windows hardening tasks to enhance security. The script requires administrative rights to run and performs the following actions: disabling CMD and PowerShell v2, setting PowerShell Constrained Language Mode, enabling PowerShell logging, removing WSMan listeners, disabling the WSMan Service, and disabling the firewall rule for Windows Remote Management. The script outputs a message confirming the elevation of privileges.
 
 ## What does this script do?
 - Disables Command Prompt
